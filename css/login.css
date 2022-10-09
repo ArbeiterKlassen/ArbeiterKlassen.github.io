@@ -35,7 +35,7 @@ input {
     width: 350px;
     font-size: 18px;
     box-shadow: 0 0 10px #A6A6A6;
-    background: #fff;
+    background: #110b2ba0;
     z-index: 999;
     position: relative;
     margin: 25px auto;
@@ -133,7 +133,7 @@ input {
 
 .tips p {
     padding: 5px;
-    color: #ffffff;
+    color: #110b2ba0;
     background-color: #0e90d2;
     font-size: 12px;
 }
@@ -167,7 +167,7 @@ input {
 
 .login:hover {
     background: #007aff;
-    color: #fff;
+    color: #110b2ba0;
 }
 
 #bottom {

@@ -14,7 +14,6 @@
     list-style: disc;
 }
 
-
 .main {
     width: 100%;
     margin: 60px auto 10px auto;
@@ -91,7 +90,7 @@
     width: 830px;
     margin: 20px 10px;
     padding: 20px;
-    background-color: #ffffff;
+    background-color: #110b2ba0;
     border-radius: 10px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.08);
     -moz-box-shadow: 0 0 10px rgba(0, 0, 0, 0.08);
@@ -214,7 +213,7 @@ li {
 
 .column_box {
     width: 100%;
-    background-color: white;
+    background-color:#110b2ba0;
     border-radius: 10px;
     overflow: hidden;
 }
@@ -226,7 +225,7 @@ li {
     line-height: 60px;
     font-size: 16px;
     font-weight: 600;
-    background-color: #EBEBEB;
+    background-color: #110b2ba0;
 }
 
 .column_box .column-category {
@@ -332,7 +331,7 @@ li {
     width: 830px;
     margin: 10px;
     padding: 20px;
-    background-color: #ffffff;
+    background-color: #110b2ba0;
     border-radius: 10px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.08);
     -moz-box-shadow: 0 0 10px rgba(0, 0, 0, 0.08);
@@ -384,7 +383,7 @@ li {
     height: 40px;
     margin-top: 10px;
     background-color: #007aff;
-    color: #FFFFFF;
+    color: #110b2ba0;
     border-radius: 10px;
     cursor: pointer;
 }
@@ -496,7 +495,7 @@ li {
 .comment-box .r-icon-line {
     height: 10px;
     width: 100%;
-    background-color: #fff;
+    background-color: #110b2ba0;
 }
 
 .icon-line a {
@@ -549,12 +548,12 @@ li {
     width: 80px;
     height: 30px;
     background-color: #3aa4ff;
-    color: #fff;
+    color: #110b2ba0;
     border-radius: 5px;
 }
 
 .reply-box {
-    background-color: #f1f2f5;
+    background-color: #110b2ba0;
     width: 100%;
     padding: 10px 0;
     overflow: auto;
@@ -576,7 +575,7 @@ li {
     color: #444555;
     padding: 5px 10px;
     height: 15px;
-    background-color: #f0f0f0;
+    background-color: #110b2ba0;
     border-radius: 10px;
     /*font-weight: 900;*/
     display: inline-block;

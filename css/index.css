@@ -27,7 +27,7 @@
     float: left;
     width: 362px;
     color: #666666;
-    background-color: #ffffff;
+    background-color: #110b2ba0;
     box-shadow: 0 0 10px rgba(184, 197, 214, .5);
     -moz-box-shadow: 0 0 10px rgba(184, 197, 214, .5);
     margin: 15px 5px 0 5px;
@@ -118,7 +118,7 @@
     margin-left: 10px;
     margin-top: 20px;
     height: auto;
-    background-color: #ffffff;
+    background-color: #110b2ba0;
     border-radius: 5px;
     box-shadow: 0 0 10px rgba(184, 197, 214, .5);
     -moz-box-shadow: 0 0 10px rgba(184, 197, 214, .5);
@@ -178,7 +178,7 @@
     width: 100%;
     height: 100%;
     font-size: 20px;
-    color: #292929;
+    color: #dbdbdb;
     font-weight: normal;
     display: inline-block;
     transition: all 0.3s ease-in-out;
@@ -297,7 +297,7 @@
 .column_box {
     width: 100%;
     padding: 12px 0;
-    background-color: white;
+    background-color: #110b2ba0;
     border-radius: 10px;
     overflow: hidden;
 }
@@ -350,7 +350,7 @@
 .column_box .column-category a:hover {
     color: #007aff;
     border-left: #3aa4ff solid 3px;
-    background-color: #fafafa;
+    background-color: #110b2ba0;
 }
 
 #a-active {
@@ -381,7 +381,7 @@
     color: #444555;
     padding: 5px 10px;
     height: 15px;
-    background-color: #f0f0f0;
+    background-color: #110b2ba0;
     border-radius: 10px;
     /*font-weight: 900;*/
     display: inline-block;
@@ -389,7 +389,7 @@
 }
 
 .article-cate a:hover {
-    background-color: #e2e3e3;
+    background-color: #110b2ba0;
 }
 
 /*@media (min-height: 1200px) {
