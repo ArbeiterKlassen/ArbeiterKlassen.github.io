@@ -3,7 +3,7 @@
 
 <head>
     <script type="text/javascript" src="../js/comcode/com_head.js"></script>
-    <title>WGSOC__特别文档</title>
+    <title>LaPhilos__特别文档</title>
     <style rel="stylesheet">.lazy-image {background: url('../img/loading.gif') no-repeat center;background-size: 26% 35%;height: 100%;width: 100%;}</style>
 </head>
 
@@ -17,7 +17,7 @@
         if(!hasadmission()){
             window.location.href = './back.html'
         }else{
-            if(localStorage.getItem('wgsoc-admission') != '0000000001'){
+            if(localStorage.getItem('laphilos-admission') != '0000000001'){
                 window.location.href = '../inner/back.html'
             }
         }
@@ -35,7 +35,7 @@
                 return null;
             };
             var mode = 1;
-        if(localStorage.getItem("wgsoc-mode") != null){mode = parseInt(localStorage.getItem("wgsoc-mode"))};
+        if(localStorage.getItem("laphilos-mode") != null){mode = parseInt(localStorage.getItem("laphilos-mode"))};
     </script>
     <div id="headpic" class="headpic">
         <script>
@@ -108,7 +108,7 @@
                             <span class="at-sort b-b-ece fl"><a class="at-sort-comment-a c-666 fl" style="font-family: Georgia, 'Times New Roman', Times, serif;">分类</a></span>
                         </li>
                         <script>
-                            var translate = ['当代社会','望关读书会','法兰西哲学','意大利哲学','德意志哲学','古希腊哲学','苏东-俄罗斯哲学','西方马克思主义','其他哲学'];
+                            var translate = ['当代社会','LaPhilos读书','法兰西哲学','意大利哲学','德意志哲学','古希腊哲学','苏东-俄罗斯哲学','西方马克思主义','其他哲学'];
                             for(var i = 0;i<translate.length;i++){
                                 var link = '"categories.html?mode=' + mode + '&' + 'cate=' + (i+1) + '"';
                                 document.write('<li class="column-category">');
@@ -121,7 +121,7 @@
                 <div class="column-container">
                     <ul class="column_box" id="like-box">
                         <li class="column-category">
-                            <a style="font-family: Georgia, 'Times New Roman', Times, serif;" href="javascript:void(0)" onclick="localStorage.removeItem('wgsoc-admission')">撤销访问权限</a></span>
+                            <a style="font-family: Georgia, 'Times New Roman', Times, serif;" href="javascript:void(0)" onclick="localStorage.removeItem('laphilos-admission')">撤销访问权限</a></span>
                         </li>
                     </ul>
                 </div>

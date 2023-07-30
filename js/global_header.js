@@ -9,14 +9,14 @@ function getParams(key) {
     return null;
 };
 var mode = 1;
-if(localStorage.getItem("wgsoc-mode") != null){mode = parseInt(localStorage.getItem("wgsoc-mode"))};
+if(localStorage.getItem("laphilos-mode") != null){mode = parseInt(localStorage.getItem("laphilos-mode"))};
 
 function pagereload(colormode){
-    localStorage.setItem('wgsoc-mode',colormode);
+    localStorage.setItem('laphilos-mode',colormode);
     window.location.reload();
 }
 function hasadmission(){
-    if(localStorage.getItem('wgsoc-admission') == null){
+    if(localStorage.getItem('laphilos-admission') == null){
         return false;
     }else{
         return true;

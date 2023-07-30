@@ -13,9 +13,9 @@ var artmenu = [
     {number:9,type:"art",class:"deu",subtype:"normal",links:"../articles/000009.html",time:"2023-05-27",author:"马尔库塞",name:"马尔库塞：论思想现如今的处境",headpic:"https://i.postimg.cc/50T0J5fV/philosophy1.jpg",detail:""},
     {number:8,type:"art",class:"deu",subtype:"normal",links:"../articles/000008.html",time:"2023-05-27",author:"AlexandreChirat",name:"Alexandre Chirat:尼采和工作：我们时代的“恶”",headpic:"https://i.postimg.cc/50T0J5fV/philosophy1.jpg",detail:""},
     {number:7,type:"art",class:"wan",subtype:"normal",links:"../articles/000007.html",time:"2023-04-16",author:"ArbeiterKlassen",name:"如何哲学地学习哲学",headpic:"https://i.postimg.cc/50T0J5fV/philosophy1.jpg",detail:""},
-    {number:6,type:"art",class:"soc",subtype:"normal",links:"../articles/000006.html",time:"2022-12-25",author:"望关内容组",name:"哲学世界的两大家族",headpic:"https://i.postimg.cc/50T0J5fV/philosophy1.jpg",detail:""},
-    {number:5,type:"art",class:"soc",subtype:"normal",links:"../articles/000005.html",time:"2022-12-25",author:"望关内容组",name:"家庭和爱情",headpic:"https://i.postimg.cc/FRQcPq8w/marx1.jpg",detail:""},
-    {number:4,type:"art",class:"soc",subtype:"normal",links:"../articles/000004.html",time:"2022-12-25",author:"望关内容组",name:"孤独摇滚",headpic:"https://i.postimg.cc/FRQcPq8w/marx1.jpg",detail:""},
+    {number:6,type:"art",class:"soc",subtype:"normal",links:"../articles/000006.html",time:"2022-12-25",author:"LaPhilos内容组",name:"哲学世界的两大家族",headpic:"https://i.postimg.cc/50T0J5fV/philosophy1.jpg",detail:""},
+    {number:5,type:"art",class:"soc",subtype:"normal",links:"../articles/000005.html",time:"2022-12-25",author:"LaPhilos内容组",name:"家庭和爱情",headpic:"https://i.postimg.cc/FRQcPq8w/marx1.jpg",detail:""},
+    {number:4,type:"art",class:"soc",subtype:"normal",links:"../articles/000004.html",time:"2022-12-25",author:"LaPhilos内容组",name:"孤独摇滚",headpic:"https://i.postimg.cc/FRQcPq8w/marx1.jpg",detail:""},
     {number:3,type:"art",class:"wma",subtype:"normal",links:"../articles/000003.html",time:"2022-01-22",author:"阿兰-彭加姆",name:"阿兰-彭加姆:无政府主义共产主义者",headpic:"https://i.postimg.cc/x1wbChfq/AnaCom1.jpg",detail:""},
     {number:2,type:"art",class:"soc",subtype:"essay",links:"../articles/000002.html",time:"2021-05-06",author:"Faschiung",name:"论信息化资本主义",headpic:"https://i.postimg.cc/FRQcPq8w/marx1.jpg",detail:"自20世纪40至50年代起，电子计算——即后来的计算机的兴起促使社会生产力大幅提高。90年代后互联网在全球普及，美国的苹果、微软等公司腾飞；"},
     {number:1,type:"art",class:"soc",subtype:"essay",links:"../articles/000001.html",time:"2021-03-13",author:"Faschiung",name:"中产阶级扩大论",headpic:"https://i.postimg.cc/FRQcPq8w/marx1.jpg",detail:"中产阶级，即小资产阶级实际上是无产阶级中的特殊组成部分，占有少部分的生产资料，但不属于大资产阶级。既可以单独作为社会阶级之一，也可以划分进无产阶级之内。"},
@@ -30,13 +30,13 @@ var specialartmenu = [
 //     {number:25,type:"art",class:"soc",subtype:"normal",links:"../specialarticles/000025.html",time:"2023-1-22",author:"蚌埠黄豆不怕流汗",name:"关于深圳中学学生自学驱动力及学习方法的来源的见解",headpic:"https://i.postimg.cc/ZKYPtGnS/hengshui1.jpg",detail:"被统治阶级往往具有一种愚昧性，但这并不是被统治阶级的错，而是统治阶级在精神上奴役被统治阶级的表现。"},
 //     {number:24,type:"art",class:"soc",subtype:"normal",links:"../specialarticles/000024.html",time:"2023-1-12",author:"SW-Eril",name:"对文化自信的一点讨论",headpic:"https://i.postimg.cc/XYzyG40v/captitalism1.jpg",detail:"资产阶级现在所宣传的反动文化所表现的核心行为会造成文化的侵略性和“正确性”。"},
 //     {number:23,type:"art",class:"soc",subtype:"normal",links:"../specialarticles/000023.html",time:"2023-1-11",author:"蚌埠黄豆不怕流汗",name:"二〇二三-我们这样团结",headpic:"https://i.postimg.cc/XYzyG40v/captitalism1.jpg",detail:"同志们，今天我们在水深火热中庆祝将至的兔年春节。"},
-//     {number:22,type:"art",class:"soc",subtype:"normal",links:"../specialarticles/000022.html",time:"2022-12-25",author:"望关内容组",name:"论苏联解体和修正主义",headpic:"https://i.postimg.cc/J4wndQT3/revisionism1.png",detail:""},
-//     {number:21,type:"art",class:"soc",subtype:"essay",links:"../specialarticles/000021.html",time:"2022-12-25",author:"望关内容组",name:"自由论-警惕自由主义的腐蚀",headpic:"https://i.postimg.cc/2yW5Sq5B/critic-of-freedom1.png",detail:""},
-//     {number:20,type:"art",class:"soc",subtype:"normal",links:"../specialarticles/000020.html",time:"2022-12-25",author:"望关内容组",name:"中国领导下的人口问题",headpic:"https://i.postimg.cc/J4wndQT3/revisionism1.png",detail:""},
+//     {number:22,type:"art",class:"soc",subtype:"normal",links:"../specialarticles/000022.html",time:"2022-12-25",author:"LaPhilos内容组",name:"论苏联解体和修正主义",headpic:"https://i.postimg.cc/J4wndQT3/revisionism1.png",detail:""},
+//     {number:21,type:"art",class:"soc",subtype:"essay",links:"../specialarticles/000021.html",time:"2022-12-25",author:"LaPhilos内容组",name:"自由论-警惕自由主义的腐蚀",headpic:"https://i.postimg.cc/2yW5Sq5B/critic-of-freedom1.png",detail:""},
+//     {number:20,type:"art",class:"soc",subtype:"normal",links:"../specialarticles/000020.html",time:"2022-12-25",author:"LaPhilos内容组",name:"中国领导下的人口问题",headpic:"https://i.postimg.cc/J4wndQT3/revisionism1.png",detail:""},
 //     {number:19,type:"art",class:"soc",subtype:"normal",links:"../specialarticles/000019.html",time:"2022-12-25",author:"铃秋",name:"一线汽修工人采访记录",headpic:"https://i.postimg.cc/qvDXKYLX/worker1.jpg",detail:""},
-//     {number:18,type:"art",class:"soc",subtype:"essay",links:"../specialarticles/000018.html",time:"2022-12-25",author:"望关内容组",name:"集权论-法西斯主义是什么",headpic:"https://i.postimg.cc/vBBgbH9W/anti-Fascism1.jpg",detail:""},
-//     {number:17,type:"art",class:"soc",subtype:"normal",links:"../specialarticles/000017.html",time:"2022-12-25",author:"望关内容组",name:"何去何从-社会主义还是沙文主义",headpic:"https://i.postimg.cc/PfvJ47Mr/jingoism1.png",detail:""},
-//     {number:16,type:"art",class:"soc",subtype:"essay",links:"../specialarticles/000016.html",time:"2022-12-25",author:"望关内容组",name:"斗争论-无产阶级的阶级斗争",headpic:"https://i.postimg.cc/15ptxNTk/kampf1.png",detail:""},
+//     {number:18,type:"art",class:"soc",subtype:"essay",links:"../specialarticles/000018.html",time:"2022-12-25",author:"LaPhilos内容组",name:"集权论-法西斯主义是什么",headpic:"https://i.postimg.cc/vBBgbH9W/anti-Fascism1.jpg",detail:""},
+//     {number:17,type:"art",class:"soc",subtype:"normal",links:"../specialarticles/000017.html",time:"2022-12-25",author:"LaPhilos内容组",name:"何去何从-社会主义还是沙文主义",headpic:"https://i.postimg.cc/PfvJ47Mr/jingoism1.png",detail:""},
+//     {number:16,type:"art",class:"soc",subtype:"essay",links:"../specialarticles/000016.html",time:"2022-12-25",author:"LaPhilos内容组",name:"斗争论-无产阶级的阶级斗争",headpic:"https://i.postimg.cc/15ptxNTk/kampf1.png",detail:""},
 //     {number:15,type:"art",class:"soc",subtype:"normal",links:"../specialarticles/000015.html",time:"2022-11-29",author:"笑笑",name:"站稳政治立场，坚定政治信仰",headpic:"https://i.postimg.cc/fLjd1Chy/mao4.jpg",detail:""},
 //     {number:14,type:"art",class:"soc",subtype:"normal",links:"../specialarticles/000014.html",time:"2022-11-04",author:"苏维埃小九",name:"和我们队伍中的民粹主义者划清界限",headpic:"https://i.postimg.cc/TYHb8hBV/populism1.jpg",detail:""},
 //     {number:13,type:"art",class:"soc",subtype:"normal",links:"../specialarticles/000013.html",time:"2022-10-08",author:"苏维埃小九",name:"对于革命的路线问题的一个论述",headpic:"https://i.postimg.cc/x1wbChfq/AnaCom1.jpg",detail:""},
@@ -71,8 +71,8 @@ var questions = [
     {q:'苏东马克思主义的代表人物有？',a1:'科尔施',a2:'葛兰西',a3:'日丹诺夫',a4:'马雅科夫斯基',a5:'齐泽克',ans:3},
 ]
 function record_questionaire(code,ans){
-    if(localStorage.getItem('wgsoc-questionaire-mark') == null)localStorage.setItem('wgsoc-questionaire-mark','0');
-    if(ans == questions[code].ans)localStorage.setItem('wgsoc-questionaire-mark',parseInt(localStorage.getItem('wgsoc-questionaire-mark'))+10);
+    if(localStorage.getItem('laphilos-questionaire-mark') == null)localStorage.setItem('laphilos-questionaire-mark','0');
+    if(ans == questions[code].ans)localStorage.setItem('laphilos-questionaire-mark',parseInt(localStorage.getItem('laphilos-questionaire-mark'))+10);
 }
 function questionaire(code){
     questionclear();
@@ -83,7 +83,7 @@ function questionaire(code){
         <h3 class="about_line" style="text-align: center;">10 questions completed</h3>
         <br>
         <h3 class="about_line" style="text-align: center;">根据您的知识水平，您获得了
-        `+localStorage.getItem('wgsoc-questionaire-mark')+` 分</h3>
+        `+localStorage.getItem('laphilos-questionaire-mark')+` 分</h3>
         <br>
         <li>
             <script src="../js/comcode/com_artmenu.js"></script>
@@ -91,7 +91,7 @@ function questionaire(code){
             <br>
             <div style="background-color: rgb(255, 34, 34);border-radius: 10px;width: 200px;height: 30px;margin: 0 auto;text-align: center;font-size: 20px;padding: 2px 2px 2px 2px; color: azure;"><a href="../templates/index.html">还是返回首页吧</a></div>
         </li>`
-        if(parseInt(localStorage.getItem('wgsoc-questionaire-mark'))>90)localStorage.setItem('wgsoc-admission','0000000001')
+        if(parseInt(localStorage.getItem('laphilos-questionaire-mark'))>90)localStorage.setItem('laphilos-admission','0000000001')
         document.getElementById('changingpage').innerHTML +=`
         <br><li><div style="background-color: rgb(4, 201, 4);border-radius: 10px;width: 200px;height: 30px;margin: 0 auto;text-align: center;font-size: 20px;padding: 2px 2px 2px 2px; color: azure;"><a href="./index.html">获得浏览资格!</a></div></li>
         `
@@ -113,11 +113,11 @@ function questionaire(code){
     </div>
     `
 }
-var translate = ['当代社会','望关读书会','法兰西哲学','意大利哲学','德意志哲学','古希腊哲学','苏东-俄罗斯哲学','西方马克思主义','其他哲学'];
+var translate = ['当代社会','LaPhilos读书','法兰西哲学','意大利哲学','德意志哲学','古希腊哲学','苏东-俄罗斯哲学','西方马克思主义','其他哲学'];
 var numcate = ['soc','wan','fra','ita','deu','gre','rus','wma','oth'];
 var authorlist = [
-    ['望关内容组','ArbeiterKlassen','Faschiung'],
-    ['望关内容组','ArbeiterKlassen'],
+    ['LaPhilos内容组','ArbeiterKlassen','Faschiung'],
+    ['LaPhilos内容组','ArbeiterKlassen'],
     [],
     [],
     ['朱利安·杨','马尔库塞','AlexandreChirat','胡塞尔','阿尔方索·林吉斯','西奥多·阿多诺','卡尔·洛维特','Jeffrey A. Bernstein'],
